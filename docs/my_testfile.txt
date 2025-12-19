@@ -1,0 +1,10 @@
+I appreciate the request, but generating random stories isn't related to software engineering or the OctoFit Tracker app project outlined in your instructions.
+
+If you'd like help with the OctoFit Tracker project instead, I can assist with:
+- Setting up the Django backend structure
+- Creating the `requirements.txt` file
+- Writing models for user authentication, activity logging, teams, leaderboards, or workout suggestions
+- Building REST API endpoints
+- Setting up the frontend structure
+
+What would you like help with for your OctoFit Tracker app?
